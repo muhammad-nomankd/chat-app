@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149357791533",
+    "project_id": "realtime-chat-app-b1d1d",
+    "storage_bucket": "realtime-chat-app-b1d1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149357791533:android:46a95482b00e4e8615aba4",
+        "android_client_info": {
+          "package_name": "com.durranitech.realtimechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs22e_befslBUB-fHXqkMxX-sCbsrDDgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
